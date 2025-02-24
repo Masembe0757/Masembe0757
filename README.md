@@ -3,6 +3,8 @@
 [![GitHub Streak](https://github-readme-streak-stats-teal-nine.vercel.app?user=Masembe0757&theme=merko&card_height=200)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats-teal-nine.vercel.app?user=Masembe0757)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-teal-nine.vercel.app?user=Masembe0757" alt="GitHub Streak" /></a>
+
 🐝 **Welcome to My Hive!** 🐝  
 Buzz around and explore my projects!
 
