@@ -2,6 +2,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-teal-nine.vercel.app?user=Masembe0757&theme=merko&card_height=200)](https://git.io/streak-stats)
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=masembe0757&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
 🐝 **Welcome to My Hive!** 🐝  
 Buzz around and explore my projects!
 
