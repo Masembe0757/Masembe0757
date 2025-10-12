@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masembe0757&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FADA5E&icon_color=FF7B00&text_color=C9D1D9" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masembe0757&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FADA5E&text_color=C9D1D9" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masembe0757&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FADA5E&text_color=C9D1D9" alt="Top Languages" height="180em"/>
 </p>
 
 <p align="center">
