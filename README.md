@@ -1,25 +1,3 @@
-## Hi there, I am Sendi Joseph, an AI Engineer 👋
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=masembe0757&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-## 📈 GitHub Stats
-![Sendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=masembe0757&show_icons=true&theme=radical)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masembe0757&theme=github_dark)
-
-
-
-
-## 📊 GitHub Insights
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=masembe0757&theme=tokyonight)](https://git.io/streak-stats)
-![Masembe's GitHub stats](https://github-readme-stats.vercel.app/api?username=masembe0757&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masembe0757&layout=compact&theme=tokyonight)
-[![Masembe's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masembe0757&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ## ⚡ GitHub Power Board
 
 <p align="center">
@@ -45,7 +23,7 @@
   <img src="https://img.shields.io/badge/🌌%20AI%20%26%20Innovation-0D1117?style=for-the-badge&logo=python&logoColor=FF7B00" />
 </p>
 
-
+## Hi there, I am Sendi Joseph, an AI Engineer 👋
 
 🐝 **Welcome to My Hive!** 🐝  
 Buzz around and explore my projects!
