@@ -12,6 +12,14 @@
 
 
 
+## 📊 GitHub Insights
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=masembe0757&theme=tokyonight)](https://git.io/streak-stats)
+![Masembe's GitHub stats](https://github-readme-stats.vercel.app/api?username=masembe0757&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masembe0757&layout=compact&theme=tokyonight)
+[![Masembe's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masembe0757&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 🐝 **Welcome to My Hive!** 🐝  
 Buzz around and explore my projects!
 
