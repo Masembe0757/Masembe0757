@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1500&color=FADA5E&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Masembe+Joseph!;💻+AI+Engineer+%7C+Full+Stack+Developer;🚀+Building+Smart+and+Innovative+Solutions" alt="Typing SVG" />
+</p>
+
 ## ⚡ GitHub Power Board
 
 <p align="center">
