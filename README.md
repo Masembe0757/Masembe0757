@@ -7,6 +7,9 @@
 ## 📈 GitHub Stats
 ![Sendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=masembe0757&show_icons=true&theme=radical)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masembe0757&theme=github_dark)
+
+
 
 
 🐝 **Welcome to My Hive!** 🐝  
