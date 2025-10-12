@@ -4,6 +4,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=masembe0757&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+## 📈 GitHub Stats
+![Sendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=masembe0757&show_icons=true&theme=radical)
+
+
 
 🐝 **Welcome to My Hive!** 🐝  
 Buzz around and explore my projects!
