@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masembe0757&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FADA5E&icon_color=FF7B00&text_color=C9D1D9" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=masembe0757&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FADA5E&icon_color=FF7B00&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masembe0757&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FADA5E&text_color=C9D1D9" alt="Top Languages" height="180em"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=masembe0757&bg_color=0D1117&color=FFD580&line=FF7B00&point=FFD580&area=true&hide_border=true" alt="Masembe’s Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=masembe0757&bg_color=0D1117&color=FFD580&line=FF7B00&point=FFD580&area=true&hide_border=true&count_private=true" alt="Masembe’s Activity Graph" />
   </a>
 </p>
 
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/🚀%20Open%20Source%20Enthusiast-0D1117?style=for-the-badge&logo=git&logoColor=FADA5E" />
   <img src="https://img.shields.io/badge/🌌%20AI%20%26%20Innovation-0D1117?style=for-the-badge&logo=python&logoColor=FF7B00" />
 </p>
+
 
 <p></p>
 
