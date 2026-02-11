@@ -25,6 +25,40 @@
 
 
 
+
+## ⚡ GitHub Power Board
+
+<!-- Streak Stats - Using Alternative Service -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masembe0757&theme=dark&hide_border=true&background=0D1117&ring=FF7B00&fire=FF7B00&currStreakNum=FFD580&currStreakLabel=FFD580&sideNums=FF7B00&sideLabels=FFD580" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Stats - Using gh-stats-gen (Working Alternative) -->
+  <img src="https://gh-stats-gen.vercel.app/api?username=Masembe0757&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FADA5E&icon_color=FF7B00&text_color=C9D1D9" alt="GitHub Stats" height="180em"/>
+  
+  <!-- Top Languages - Using gh-stats-gen -->
+  <img src="https://gh-stats-gen.vercel.app/api/top-langs/?username=Masembe0757&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FADA5E&text_color=C9D1D9" alt="Top Languages" height="180em"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masembe0757&bg_color=0D1117&color=FFD580&line=FF7B00&point=FFD580&area=true&hide_border=true" alt="Masembe's Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥%20Always%20Learning-0D1117?style=for-the-badge&logo=github&logoColor=FF7B00" />
+  <img src="https://img.shields.io/badge/🚀%20Open%20Source%20Enthusiast-0D1117?style=for-the-badge&logo=git&logoColor=FADA5E" />
+  <img src="https://img.shields.io/badge/🌌%20AI%20%26%20Innovation-0D1117?style=for-the-badge&logo=python&logoColor=FF7B00" />
+</p>
+
+
+
+
+
+
+
+
 <p></p>
 
 🐝 **Welcome to My Hive!** 🐝  
