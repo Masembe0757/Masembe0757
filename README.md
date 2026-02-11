@@ -32,6 +32,16 @@
 </p>
 
 
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=masembe0757&show_icons=true&theme=radical&hide_border=true" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masembe0757&layout=compact&theme=radical&hide_border=true" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=masembe0757&theme=radical&hide_border=true" />
+
+
 
 
 <p></p>
